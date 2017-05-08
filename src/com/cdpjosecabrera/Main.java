@@ -10,12 +10,14 @@ public class Main {
 		
 		System.out.println(suma);
 		
+
 		int resta=calcu.resta(15, 8);
 		System.out.println(resta);
 		
 		int multi=calcu.multi(10, 10);
 		System.out.println(multi);
 		
+
 	}
 
 }
