@@ -10,8 +10,8 @@ public class Main {
 		
 		System.out.println(suma);
 		
-		
-
+		int multi=calcu.multi(5, 5);
+		System.out.println(multi);
 	}
 
 }
