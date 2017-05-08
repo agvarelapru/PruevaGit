@@ -10,8 +10,11 @@ public class Main {
 		
 		System.out.println(suma);
 		
+		int resta=calcu.resta(15, 8);
+		System.out.println(resta);
 		
-
+		
+		
 	}
 
 }
