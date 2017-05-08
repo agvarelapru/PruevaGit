@@ -17,7 +17,8 @@ public class Main {
 		int multi=calcu.multi(10, 10);
 		System.out.println(multi);
 		
-
+int div=calcu.div(165, 35);
+System.out.println(suma);
 	}
 
 }
