@@ -10,8 +10,15 @@ public class Main {
 		
 		System.out.println(suma);
 		
-		int multi=calcu.multi(5, 5);
+
+		int resta=calcu.resta(15, 8);
+		System.out.println(resta);
+		
+		int multi=calcu.multi(10, 10);
 		System.out.println(multi);
+		
+int div=calcu.div(165, 35);
+System.out.println(suma);
 	}
 
 }
